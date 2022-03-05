@@ -12,12 +12,12 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Build
 
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
 ## Running View
+
 ![Dialog1](https://user-images.githubusercontent.com/82014153/156902630-3c83b957-4fa0-4967-a790-ddec9cd686f6.png)
 ![Dialog2](https://user-images.githubusercontent.com/82014153/156902632-005f41d8-a254-4b1b-a42b-09f0d6ff359e.png)
-
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
 ## Running unit tests
 
