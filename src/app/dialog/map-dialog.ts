@@ -17,12 +17,7 @@ export class DialogMap {
     constructor(  public ref: DynamicDialogRef, public config: DynamicDialogConfig  ) { }
 
     ngOnInit() {
-        //console.log(this.config.data.id);
-        //this.productService.getProductsSmall().then(products => this.products = products);
+       
     }
-    /*
-    selectProduct(product: Product) {
-        this.ref.close(product);
-    }
-    */
+ 
 }
